@@ -1,0 +1,496 @@
+div#wrap {
+	width: 850px; 
+	margin: 0 auto; 
+
+}
+h1#nameOfPage {
+	
+	color: white; 
+	font-family: 'Amatic SC', cursive;
+	font-size: 10em; 
+	margin-top:	30px; 
+	 
+	text-shadow: 2px 2px 10px red; /*#bbf144; beetlejuice title color */ 
+	margin-bottom: 25px; 
+	
+	
+}
+div.timPortrait {
+	content: url(../images/burton.jpg); 
+	height: 240px; 
+	width: auto; 
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-bottom: 20px; 
+	
+	
+}
+p#instructions {
+	color: white; 
+	font-size: 3.5em; 
+	text-shadow: 2px 2px 5px red;
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+}
+
+input#movieEntered {
+	
+	
+
+}
+section#movie1 {
+	
+	color: white; 
+	
+}
+/*The Nightmare Before Christmas Movie CSS */
+h1#nightmare {
+	color: white; 
+	font-family: 'Amatic SC', cursive;
+	font-size: 3.5em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 3px 3px 3px #b80013; 
+	
+}
+p#nightmareBio{
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	font-weight: bold; 
+	font-size: 22px; 
+	text-shadow: 3px 3px 3px #b80013; 
+}
+p#nightmareQuote {
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	font-weight: bold; 
+	font-size: 1.5em; 
+	text-shadow: 3px 3px 3px #b80013; 
+}
+
+/*END NIGHTMARE BEFORE CHRISTMAS CSS */
+
+
+/*CORPSE BRIDE CSS*/
+h1#corpseBride {
+	color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 7em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 1px 1px 3px #4fcea5; 
+	}
+
+	p#brideQuote {
+	color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 20px; 
+	font-weight: bold; 
+	font-size: 1.5em; 
+	text-shadow: 2px 1px 3px #208869; 
+	}
+	p#brideBio{
+	color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 20px; 
+		text-shadow: 3px 3px 3px #094936;
+		
+	}
+/*END CORPSE BRIDE CSS */ 
+
+
+/* SWEENY TODD CSS */
+	h1#sweeny {
+	color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 4.2em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 3px 3px 3px red; 
+	}
+	
+	p#sweenyQuote {
+	color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 2px 1px 3px red; 
+	}
+	
+	p#sweenyBio{
+	color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 22px; 
+		text-shadow: 3px 3px 3px red;
+	}
+
+/*  END SWEENY TODD CSS */
+
+/* CABIN BOY CSS */
+		h1#cabinBoy {
+	color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 7em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 3px 3px 3px green; 
+	}
+	
+	p#cabinQuote {
+	color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 2px 1px 3px green; 
+	}
+	
+	p#cabinBio{
+	color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 3px 3px 3px green;
+	}
+
+/*END CABIN BOY CSS */
+
+/* ALICE CSS */
+h1#alice {
+	color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 7em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 5px 5px 4px #c06fdd; 
+	}
+	
+	p#aliceQuote {
+	color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 3px 3px 3px purple;
+	}
+	
+	p#aliceBio{
+	color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 4px 4px 3px purple;
+	}
+
+/* END ALICE CSS */ 
+
+/* 9 movie CSS */ 
+	h1#nine {
+		color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 7em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 5px 5px 4px #560505; 
+	}
+	p#nineQuote {
+		color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 3px 3px 3px #650606;
+	}
+	
+	p#nineBio {
+		color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 4px 4px 3px #560505;
+	}
+/* end 9 movie css */ 
+
+/*planet of the apes css */
+	h1#apes{
+		color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 7em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 5px 5px 4px #ab3401; 
+	}
+	p#apesQuote {
+		color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 3px 3px 1px #ab3401;
+	}
+	
+	p#apesBio {
+		color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 3px 3px 1px #ab3401;
+	}
+/* end planet of the apes css */
+
+/* batman css */
+h1#batman{
+		color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 7em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 5px 5px 4px blue; 
+	}
+	p#batmanQuote {
+		color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 2px 2px 1px blue;
+	}
+	
+	p#batmanBio {
+		color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 2px 2px 1px blue;
+	}
+
+/* batman forever css */ 
+h1#batmanForever{
+		color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 7em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 5px 5px 4px blue; 
+	}
+	p#foreverQuote {
+		color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 2px 2px 1px blue;
+	}
+	
+	p#foreverBio {
+		color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 2px 2px 1px blue;
+	}
+/* end batman forever */ 
+/*batman returns css */ 
+h1#batmanReturns{
+		color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 7em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 5px 5px 4px blue; 
+	}
+	p#returnsQuote {
+		color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 2px 2px 1px blue;
+	}
+	
+	p#returnsBio {
+		color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 2px 2px 1px blue;
+	}
+/*end batman returns css */ 
+/* end batman css */
+
+/* willy wonka css */ 
+	h1#factory{
+		color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 5.5em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 5px 5px 4px #5b391e; 
+	}
+	p#factoryQuote {
+		color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 2px 2px 1px #5b391e; 
+	}
+	
+	p#factoryBio {
+		color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 2px 2px 1px #5b391e;
+	}
+/* end willy wonka css */ 
+
+/*edward scissorhands css */
+h1#scissors{
+		color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 5.5em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 5px 5px 4px #000000;
+	}
+	p#scissorsQuote {
+		color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 2px 2px 1px #000000; 
+	}
+	
+	p#scissorsBio {
+		color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 2px 2px 1px #000000;
+	}
+/* end scissorhands css */
+
+/* giant peach css */ 
+h1#peach{
+		color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 5.5em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 5px 5px 4px #5b391e; 
+	}
+	p#peachQuote {
+		color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 2px 2px 1px #5b391e; 
+	}
+	
+	p#peachBio {
+		color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 2px 2px 1px #5b391e;
+	}
+/* end giant peach css */ 
+
+/*beetlejuice css */
+h1#beetle{
+		color: white; 
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: 20px; 
+	font-size: 5.5em; 
+	margin-left: auto; 
+	margin-right: auto; 
+	text-shadow: 5px 5px 4px #076923; 
+	}
+	p#beetleQuote{
+		color: white; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-style: italic;
+	margin-bottom: 30px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	text-shadow: 2px 2px 1px #076923; 
+	}
+	
+	p#beetleBio {
+		color: white; 
+		font-family: 'Open Sans Condensed', sans-serif; 
+		font-weight: bold;
+		font-style: italic; 
+		font-size: 21px; 
+		text-shadow: 2px 2px 1px #076923;
+	} 
+/* end beetlejuice css */ 
+
+input#movieEntered {
+	border:2px solid #000000;
+	border-radius:10px;
+	height: 22px;
+	width: 230px; 
+}
+button#btnFindMovie {
+	background-color:#a57b7b; 
+	background: -webkit-gradient(linear, left top, left bottom, from(#a57b7b), to(	#981d1d));
+	background: -webkit-linear-gradient(top, #a57b7b, 	#981d1d)	
+	background: -moz-linear-gradient(top, #a57b7b, 	#981d1d);
+	background: -o-linear-gradient(top, #a57b7b, 	#981d1d);
+	background: linear-gradient(top, #a57b7b,	#981d1d);
+	width: 60px; 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	border: black; 
+}
+
+html { 
+  background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
